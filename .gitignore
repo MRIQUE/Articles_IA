@@ -1,0 +1,18 @@
+# Obsidian - fichiers de session (changent constamment)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Obsidian - cache
+.obsidian/cache
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Fichiers temporaires
+*.tmp
+*~
+
+# Claude Code
+.claude/
