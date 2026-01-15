@@ -2,8 +2,8 @@
 id: AI-RISK-001
 type: risk
 title: "Agents Rule of Two : limiter les capacités des agents IA pour éviter les catastrophes"
-version: 1.0
-status: draft
+version: 1.1
+status: published
 created: 2026-01-15
 updated: 2026-01-15
 ---
