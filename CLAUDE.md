@@ -56,6 +56,7 @@ Le nouvel ID = dernier numéro + 1 (format 3 chiffres : 001, 002, etc.)
 id: AI-{TYPE}-{NUM}
 type: {type_lowercase}
 title: "Titre descriptif et informatif"
+version: 1.0
 status: draft
 created: {date_du_jour}
 updated: {date_du_jour}
@@ -109,12 +110,65 @@ ls -1 IDEA/ | sort -V | tail -1
 
 ## Checklist avant finalisation
 
-- [ ] Front-matter complet et valide
+- [ ] Front-matter complet et valide (incluant `version`)
 - [ ] ID unique et correctement formaté
 - [ ] Fichier dans le bon dossier
 - [ ] Titre clair et descriptif
 - [ ] Sources citées si applicable
 - [ ] Pas de contenu inventé
+- [ ] Commit Git effectué avec tag de version
+
+## Versioning & Git Workflow
+
+Chaque modification d'un article doit suivre ce workflow :
+
+### 1. Mettre à jour le numéro de version
+
+Dans le front-matter YAML :
+- Incrémenter le champ `version:` (ex: 1.0 → 1.1)
+- Mettre à jour le champ `updated:` avec la date du jour
+
+```yaml
+version: 1.1          # anciennement 1.0
+updated: 2026-01-15   # date de modification
+```
+
+### 2. Commit Git
+
+```bash
+git add "RISK/AI-RISK-001.md"
+git commit -m "AI-RISK-001 v1.1 : description des modifications"
+```
+
+### 3. Tag Git
+
+Créer un tag correspondant à la nouvelle version :
+
+```bash
+git tag AI-RISK-001-v1.1
+```
+
+### Convention de nommage des tags
+
+Format : `{ID}-v{VERSION}`
+
+Exemples :
+- `AI-RISK-001-v1.0` (création)
+- `AI-RISK-001-v1.1` (première modification)
+- `AI-IDEA-003-v2.0` (modification majeure)
+
+### Commandes Git utiles
+
+```bash
+# Voir l'historique d'un article
+git log --oneline RISK/AI-RISK-001.md
+
+# Lister tous les tags d'un article
+git tag -l "AI-RISK-001*"
+
+# Voir le contenu d'une version antérieure
+git show AI-RISK-001-v1.0:RISK/AI-RISK-001.md
+```
 
 ## Reference
 
