@@ -6,6 +6,8 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 This is an **Obsidian vault** for managing AI-themed articles in French. Articles can be published to newsletters, blogs, or exported as PDFs. The vault uses the Dataview plugin for dynamic indexing.
 
+**GitHub** : https://github.com/MRIQUE/Articles_IA
+
 ## Folder Structure
 
 ```
@@ -146,6 +148,14 @@ Créer un tag correspondant à la nouvelle version :
 
 ```bash
 git tag AI-RISK-001-v1.1
+```
+
+### 4. Push vers GitHub
+
+Pousser le commit et les tags vers le dépôt distant :
+
+```bash
+git push origin master --tags
 ```
 
 ### Convention de nommage des tags
