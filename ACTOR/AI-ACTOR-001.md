@@ -2,7 +2,7 @@
 id: AI-ACTOR-001
 type: actor
 title: "Léon Bottou, co-inventeur des approches du deep learning"
-version: 1.0
+version: 1.1
 status: published
 created: 2026-01-15
 updated: 2026-01-15
@@ -54,4 +54,4 @@ Son approche combine rigueur théorique et pragmatisme industriel, caractéristi
 
 ## Sources
 
-Aucune source externe citée.
+- Blog personnel de Léon Bottou : https://leon.bottou.org/
