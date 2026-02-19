@@ -2,7 +2,7 @@
 id: AI-ACTOR-006
 type: actor
 title: "Didier Girard, architecte de la transformation IA des entreprises"
-version: 1.0
+version: 1.1
 status: draft
 created: 2026-02-19
 updated: 2026-02-19
@@ -40,6 +40,12 @@ Pour lui, la gouvernance de la donnée est la "clé du succès". Sans données p
 
 Il observe l'émergence du Vibe Coding (février 2025), où l'on ne code plus manuellement mais où l'on décrit son intention en langage naturel pour générer des applications. Le langage naturel devient le nouveau langage de programmation. Plus largement, il considère que le développeur passera du rôle d'auteur exclusif du code à celui d'opérateur d'une machine à générer du code.
 
+### L'Agentic Coding et la Boucle de Capitalisation
+
+En février 2026, il pousse la réflexion plus loin avec une thèse provocatrice : "écrire du code est un anti-pattern". Lorsqu'un agent IA génère du code comportant une erreur, le réflexe naturel est de corriger manuellement. Girard considère cette approche contre-productive : en corrigeant soi-même, on prive l'agent de l'opportunité de comprendre son erreur, et la connaissance reste isolée dans le cerveau du développeur. L'agent reproduira le même bug, et tout nouveau contributeur n'aura pas accès à cette règle implicite.
+
+Sa solution : devenir "architecte de contexte" plutôt que développeur. Il propose la Boucle de Capitalisation en trois étapes. Premièrement, l'instruction : ne pas toucher au code et demander à l'agent de corriger l'erreur lui-même. Deuxièmement, la règle : une fois le code valide, ordonner à l'agent de créer une règle de contexte pour que cette erreur ne se reproduise plus jamais. Troisièmement, la scalabilité : la connaissance est désormais externalisée dans le système. Résultat : tout développeur peut rejoindre le projet et être performant dès le premier jour, guidé par un contexte qui garantit la qualité.
+
 ### Adoption massive plutôt que ROI immédiat
 
 Il recommande d'abandonner l'obsession du calcul immédiat du retour sur investissement pour se concentrer sur l'adoption massive. Plus une entreprise consomme de "tokens", plus elle gagne en vitesse et en qualité. Le passage à l'IA n'est pas qu'un sujet technologique, c'est une mutation des processus mentaux qui nécessite d'accompagner les collaborateurs pour éviter les fractures générationnelles.
@@ -52,7 +58,7 @@ Il anticipe une transition du SEO (Search Engine Optimization) vers l'AIO (Artif
 
 - LangChain : considéré comme la solution incontournable et "universelle" pour construire des plateformes GenAI
 - Protocole MCP : pour permettre aux agents d'utiliser des outils
-- Claude 3.7, Windsurf, Cursor : outils de Vibe Coding qu'il suit de près
+ 
 
 ## Sources
 
