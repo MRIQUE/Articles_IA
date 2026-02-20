@@ -2,7 +2,7 @@
 id: AI-ACTOR-001
 type: actor
 title: "Léon Bottou, co-inventeur des approches du deep learning"
-version: 1.2
+version: 1.3
 status: published
 created: 2026-01-15
 updated: 2026-02-20
@@ -59,6 +59,16 @@ En 2025, Léon Bottou (avec Bernhard Schölkopf) propose une analyse originale d
 **La menace des "Purificateurs"** : Bottou compare les ingénieurs qui cherchent à censurer et orienter les réponses de l'IA aux "Purificateurs" de Borges qui voulaient brûler les mauvais livres. Il alerte : si l'humanité dépend de l'IA pour penser, donner à quelques personnes le pouvoir de contrôler ce que la machine écrit équivaut à leur donner le pouvoir sur nos pensées.
 
 **Conclusion** : L'IA ne doit pas être vue comme un oracle omniscient mais comme une invention comparable à l'art du récit. Elle enrichit nos vies par la création, mais nécessite des "machines de vérification" externes pour confronter ses productions à la réalité.
+
+### Critique de l'écosystème IA
+
+Bottou développe également une analyse critique de l'écosystème actuel de l'IA, articulée autour de trois axes :
+
+**Le décalage entre marketing et réalité scientifique** : Bottou dénonce l'écart entre ce que les chercheurs observent et ce que les entreprises affirment. Les discours commerciaux présentent l'IA comme capable de raisonner, de faire des mathématiques ou de programmer. En réalité, la seule compétence que l'IA maîtrise avec une fiabilité proche de 100 % est le maniement du langage : parler de façon fluide, adapter son style, raconter des histoires. Comprendre comment l'IA réussit si bien à parler devrait être la priorité avant de lui enseigner autre chose.
+
+**La nécessité des modèles ouverts** : Bottou critique vivement les modèles "fermés" dont les entreprises gardent la recette secrète. Ces modèles sont inutiles pour la recherche scientifique car on ne peut ni comprendre leur fonctionnement ni s'en servir comme points de comparaison fiables. Ce sont les modèles ouverts (comme Llama ou DeepSeek) qui font réellement avancer le domaine, car ils permettent aux scientifiques d'étudier leurs mécanismes internes.
+
+**L'IA comme révolution culturelle** : Au-delà des applications commerciales, Bottou considère que le véritable enjeu de l'IA est de nous aider à comprendre le cerveau humain. Si les scientifiques parviennent à expliquer le fonctionnement de l'intelligence artificielle, ils auront simultanément trouvé une façon d'expliquer la pensée humaine. Bottou compare l'impact potentiel de l'IA à des inventions historiques majeures comme l'écriture ou la narration : une technologie qui bouleverse et enrichit profondément notre compréhension de nous-mêmes.
 
 ## Sources
 
