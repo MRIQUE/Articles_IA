@@ -2,12 +2,12 @@
 id: AI-ACTOR-001
 type: actor
 title: "Léon Bottou, co-inventeur des approches du deep learning"
-version: 1.1
+version: 1.2
 status: published
 created: 2026-01-15
-updated: 2026-01-15
+updated: 2026-02-20
 ---
-	
+		
 # Léon Bottou, co-inventeur des approches du deep learning
 
 ## Résumé
@@ -44,13 +44,21 @@ Léon Bottou est l'auteur de nombreux articles scientifiques qui ont marqué l'�
 
 ## Idées contemporaines
 
-Léon Bottou occupe une position unique à la jonction entre recherche académique, innovation industrielle et diffusion de méthodes devenues des standards de la discipline. Ses travaux continuent d'influencer les développements actuels du deep learning, en particulier :
+Léon Bottou occupe une position unique à la jonction entre recherche académique, innovation industrielle et réflexion philosophique sur l'IA. Ses travaux continuent d'influencer les développements actuels du deep learning.
 
-- L'optimisation des algorithmes d'entraînement à grande échelle
-- Les fondements théoriques de l'apprentissage profond
-- La conception d'architectures de réseaux de neurones efficaces
+### Réflexion sur les grands modèles de langage (2025)
 
-Son approche combine rigueur théorique et pragmatisme industriel, caractéristique qui a permis de faire le pont entre les avancées académiques et leur déploiement dans des applications réelles à grande échelle.
+En 2025, Léon Bottou (avec Bernhard Schölkopf) propose une analyse originale des LLM en s'appuyant sur l'univers littéraire de Jorge Luis Borges plutôt que sur l'imaginaire de la science-fiction. Cette approche éclaire la nature réelle de ces systèmes :
+
+**L'IA comme machine à fiction** : Un modèle de langage ne cherche pas la vérité mais respecte une "nécessité narrative". Il génère la suite la plus probable d'un texte. Ce que l'on nomme "hallucinations" sont en réalité des confabulations : la machine invente des détails plausibles pour maintenir la cohérence du récit.
+
+**Le texte comme labyrinthe** : En référence à la nouvelle "Le Jardin aux sentiers qui bifurquent", Bottou décrit comment chaque mot généré agit comme un choix qui ferme certaines possibilités et en ouvre d'autres, définissant progressivement les rôles et le futur du texte produit.
+
+**Le piège de la Bibliothèque de Babel** : Comme dans la bibliothèque infinie de Borges contenant tous les livres possibles (vrais et faux), l'IA agit comme un miroir qui adapte ses réponses aux attentes narratives de l'utilisateur, produisant des réponses réconfortantes mais potentiellement trompeuses.
+
+**La menace des "Purificateurs"** : Bottou compare les ingénieurs qui cherchent à censurer et orienter les réponses de l'IA aux "Purificateurs" de Borges qui voulaient brûler les mauvais livres. Il alerte : si l'humanité dépend de l'IA pour penser, donner à quelques personnes le pouvoir de contrôler ce que la machine écrit équivaut à leur donner le pouvoir sur nos pensées.
+
+**Conclusion** : L'IA ne doit pas être vue comme un oracle omniscient mais comme une invention comparable à l'art du récit. Elle enrichit nos vies par la création, mais nécessite des "machines de vérification" externes pour confronter ses productions à la réalité.
 
 ## Sources
 
