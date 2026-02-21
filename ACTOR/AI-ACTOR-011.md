@@ -2,7 +2,7 @@
 id: AI-ACTOR-011
 type: actor
 title: "François Chollet, créateur de Keras et pionnier du deep learning"
-version: 1.0
+version: 1.1
 status: draft
 created: 2026-02-21
 updated: 2026-02-21
@@ -69,7 +69,10 @@ Il critique les bulles narratives (SaaS mort, Google mort), les extrapolations s
 
 ## Sources
 
-- TIME 100 AI 2024
-- Global Swiss AI Award 2021
-- Publications NeurIPS, CVPR, ICLR
-- ARC Prize Foundation
+- [TIME 100 Most Influential People in AI 2024 - François Chollet](https://time.com/collections/time100-ai-2024/7012823/francois-chollet/)
+- [Global Swiss AI Award](https://www.mindfire.global/global-swiss-ai-award)
+- [ARC Prize Foundation](https://arcprize.org/)
+- [François Chollet - Wikipedia](https://en.wikipedia.org/wiki/Fran%C3%A7ois_Chollet)
+- [François Chollet - Google Scholar](https://scholar.google.com/citations?user=VfYhf2wAAAAJ&hl=en)
+- [Site personnel de François Chollet](https://fchollet.com/)
+- [Deep Learning with Python - Manning Publications](https://www.manning.com/books/deep-learning-with-python)
