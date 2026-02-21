@@ -2,10 +2,10 @@
 id: AI-ACTOR-002
 type: actor
 title: "Fabien Mikol, vigie du débat français sur l'intelligence artificielle"
-version: 1.0
+version: 1.1
 status: published
 created: 2026-02-19
-updated: 2026-02-19
+updated: 2026-02-21
 ---
 
 # Fabien Mikol, vigie du débat français sur l'intelligence artificielle
@@ -36,12 +36,6 @@ Loin du techno-optimisme béat, Fabien Mikol accorde une importance majeure aux 
 
 C'est peut-être la dimension la plus visible de son activité : une critique systématique et documentée des figures médiatiques françaises qui, selon lui, propagent des contre-vérités rassurantes sur l'IA. Sa cible principale est Luc Julia, dont il conteste les affirmations techniques, les prétentions biographiques et la posture intellectuelle avec une constance qui confine à la vocation. Étienne Klein et Jean-Gabriel Ganascia figurent également parmi ses contradicteurs réguliers.
 
-## Méthode et style
-
-Fabien Mikol se distingue par une approche qui combine rigueur documentaire et pugnacité polémique. Ses publications s'appuient systématiquement sur des sources académiques de haut niveau : cours du Collège de France (Dehaene, Aghion), publications scientifiques, auditions parlementaires.
-
-Son style mêle pédagogie et ironie. Il excelle dans l'art de confronter les prédictions passées aux réalités présentes — exercice souvent cruel pour les prophètes de l'IA faible. Il collabore occasionnellement avec d'autres comptes (@manumik) pour produire des analyses chiffrées, notamment sur l'impact environnemental des LLM, qu'il juge largement exagéré dans le débat public.
-
 ## Figures de référence
 
 Fabien Mikol dessine un paysage intellectuel structuré entre autorités légitimes et figures contestées :
@@ -57,10 +51,6 @@ Fabien Mikol dessine un paysage intellectuel structuré entre autorités légiti
 - Luc Julia (cible principale)
 - Étienne Klein (argument linguistique jugé fallacieux)
 - Jean-Gabriel Ganascia (prédictions erronées)
-
-## Thèmes connexes
-
-Au-delà de l'IA, Fabien Mikol manifeste un intérêt marqué pour l'éthique animale. Il relaie régulièrement des travaux sur la souffrance des poissons, l'aquaculture, et fait le lien entre sentience animale et questions émergentes sur la conscience des IA. Il suit également les situations géopolitiques en Iran et en Ukraine, témoignant d'une sensibilité aux droits humains.
 
 ## Sources
 
