@@ -38,3 +38,4 @@ MAESTRO comble un vide important dans la modélisation des menaces en proposant 
 
 - Ken Huang, "[Agentic AI Threat Modeling Framework: MAESTRO](https://cloudsecurityalliance.org/blog/2025/02/06/agentic-ai-threat-modeling-framework-maestro)", Cloud Security Alliance, février 2025
 - Ken Huang, "Generative AI Security: Theories and Practices", Springer, 2024
+- https://github.com/CloudSecurityAlliance/MAESTRO 
